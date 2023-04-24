@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.instagram.com/chieyoun_oui/" target="_blank"><img src="https://img.shields.io/badge/chieyoun__oui-E4405F?style=instagram&logo=instagram&logoColor=white"/></a>
+<a href="https://velog.io/@chieyoun" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=velog&logo=velog&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring.codbs@gmail.com-EA4335?style=gmail&logo=gmail&logoColor=white"/></a>
+
+![chieyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chieyoun&show_icons=true&theme=radical)
